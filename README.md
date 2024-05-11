@@ -16,7 +16,7 @@ Hypothesis Testing is a fundamental process in data science for making data-driv
 5. **Perform the chosen statistical test on your data.**
 6. **Determine the p-value and interpret the results of your statistical tests.**
 
-To get started with Hypothesis Testing, we need appropriate data. I found an ideal dataset for this task. You can download the dataset from [here](link_to_your_dataset).
+To get started with Hypothesis Testing, we need appropriate data. I found an ideal dataset for this task. You can download the dataset from [here](https://github.com/sahiltambe/HypoScan-Python-Powered-Hypothesis-Testing-Toolkit/blob/main/website_data.csv).
 
 ## Getting Started with Hypothesis Testing
 
